@@ -13,7 +13,7 @@
 
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view)
 
-- ⚡ Fun fact **I play video games!**
+- ⚡ Fun fact: **I play video games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
