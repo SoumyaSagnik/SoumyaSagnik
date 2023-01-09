@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **soumyasagnik@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view)
 
 - ⚡ Fun fact **I am a gamer!**
 
