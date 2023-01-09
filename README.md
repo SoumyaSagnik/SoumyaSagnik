@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyasagnik&show_icons=true&locale=en" alt="soumyasagnik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasagnik&" alt="soumyasagnik" /></p>
+
+[![MasterFoot](https://raw.githubusercontent.com/SoumyaSagnik/images/main/bottom.gif)]([https://soumyasagnik.io](https://raw.githubusercontent.com/SoumyaSagnik/images/main/bottom.gif))
