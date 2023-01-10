@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [http://portfolio.soumyakhanda.tech/](http://portfolio.soumyakhanda.tech/)
 
-- 📫 Email: **soumyasagnik@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="25px" alt="email">
+- 📫 Email: **soumyasagnik@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="20px" alt="email">
 
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resume.gif" width="30px" alt="resume">
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resume.gif" width="20px" alt="resume">
 
-- ⚡ Fun fact: **I play video games!** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/gamepad.gif" width="30px" alt="game">
+- ⚡ Fun fact: **I play video games!** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/gamepad.gif" width="20px" alt="game">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
