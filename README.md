@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://portfolio.soumyakhanda.tech/](http://portfolio.soumyakhanda.tech/)
 
-- 📫 Email: **soumyasagnik@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="20px" alt="email">
+- 📫 Email: **soumyasagnik@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="25px" height="20px" alt="email">
 
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resumee.gif" width="50px" height="20px" alt="resume">
 
