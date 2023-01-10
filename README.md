@@ -13,7 +13,7 @@
 
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view)
 
-- ⚡ Fun fact: **I play video games!**
+- ⚡ Fun fact: **I play video games!** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/gamepad.gif" width="30px" alt="game">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
