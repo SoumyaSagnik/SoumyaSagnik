@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner.gif)]([https://soumyasagnik.io](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner.gif))
 <h1 align="center">Hi, I'm Soumya Sagnik Khanda <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/hi.gif" width="28px" height="28px" alt="hi"></h1>
-<h3 align="center">Software Developer from India <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/flag.gif" width="20px" height="14px" alt="flag"></h3>
+<h3 align="center">Software Developer from India <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/flag.gif" width="30px" height="21px" alt="flag"></h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyasagnik&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasagnik" /> </p>
