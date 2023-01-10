@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyasagnik&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasagnik" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" width="25px" alt="react">
 
 - 👨‍💻 All of my projects are available at [http://portfolio.soumyakhanda.tech/](http://portfolio.soumyakhanda.tech/)
 
-- 📫 Email **soumyasagnik@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="25px" alt="email">
+- 📫 Email: **soumyasagnik@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="25px" alt="email">
 
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resume.gif" width="30px" alt="resume">
 
