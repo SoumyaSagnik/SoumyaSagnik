@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/coder.gif">
 
-[![](https://visitcount.itsvg.in/api?id=SoumyaSagnik&icon=8&color=9)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyasagnik&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasagnik" /> </p>
 
 - 🌱 I’m currently learning **React**
 
