@@ -11,7 +11,7 @@
 
 - 📫 Email: **soumyasagnik@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="20px" alt="email">
 
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resumee.gif" width="27.5px" height="20px" alt="resume">
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resumee.gif" width="40px" height="20px" alt="resume">
 
 - ⚡ Fun fact: **I play video games!** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/gamepad.gif" width="20px" alt="game">
 
