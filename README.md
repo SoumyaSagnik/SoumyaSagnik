@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner.gif)]([https://soumyasagnik.io](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner.gif))
-<h1 align="center">Hi 👋, I'm Soumya Sagnik Khanda</h1>
+<h1 align="center">Hi, I'm Soumya Sagnik Khanda <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/hi.gif" width="28px" height="28px" alt="hi"></h1>
 <h3 align="center">Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/coder.gif">
 
