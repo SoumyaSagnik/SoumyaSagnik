@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **soumyasagnik@gmail.com**
 
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resume.gif" width="30px" alt="resume">
 
 - ⚡ Fun fact: **I play video games!** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/gamepad.gif" width="30px" alt="game">
 
