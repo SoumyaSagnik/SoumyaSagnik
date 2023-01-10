@@ -30,4 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasagnik&theme=dark&hide_border=false" alt="soumyasagnik" /></p>
 
+---
 [![MasterFoot](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif)]([https://soumyasagnik.io](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif))
