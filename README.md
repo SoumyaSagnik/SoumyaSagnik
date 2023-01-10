@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyasagnik&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasagnik" /> </p>
 
-- 🌱 I’m currently learning **React** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" width="25px" alt="react">
+- 🌱 I’m currently learning **React** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" width="20px" alt="react">
 
 - 👨‍💻 All of my projects are available at [http://portfolio.soumyakhanda.tech/](http://portfolio.soumyakhanda.tech/)
 
