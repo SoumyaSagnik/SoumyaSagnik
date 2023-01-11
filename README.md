@@ -26,7 +26,7 @@
 
 # <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/stats.gif" width="35px" alt="stats"> GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyasagnik&show_icons=true&locale=en&theme=dark&hide_border=false" alt="soumyasagnik" /></p>
+<p>&nbsp;<img align="center" src="github-readme-stats-76ilui6pa-soumyasagnik.vercel.app/api?username=soumyasagnik&show_icons=true&locale=en&theme=dark&hide_border=false" alt="soumyasagnik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasagnik&theme=dark&hide_border=false" alt="soumyasagnik" /></p>
 
