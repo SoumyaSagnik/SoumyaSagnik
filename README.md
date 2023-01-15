@@ -13,7 +13,7 @@
 
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resumee.gif" width="50px" height="20px" alt="resume">
 
-- ✒️ Blogs: [Blogs](https://blogs-ssk.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/blog.gif" width="30px" alt="blogs">
+- ✒️ Blogs: [Blogs](https://blogs-ssk.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/blog.gif" width="25px" alt="blogs">
 
 - ⚡ Fun fact: **I play video games!** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/gamepad.gif" width="20px" alt="game">
 
