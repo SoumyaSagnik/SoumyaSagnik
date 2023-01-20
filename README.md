@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" width="20px" alt="react">
 
-- 👨‍💻 All of my projects are available at [http://portfolio.soumyakhanda.tech/](http://portfolio.soumyakhanda.tech/)
+- 👨‍💻 All of my projects are available at [http://portfolio.soumyakhanda.tech/](http://portfolio.soumyakhanda.tech/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/portfolio.gif" width="50px" alt="website" />
 
 - 📫 Email: **soumyasagnik@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="20px" alt="email">
 
