@@ -29,9 +29,9 @@
 
 # <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/stats.gif" width="35px" alt="stats"> GitHub Stats:
 
-<span align="left">&nbsp;<img align="center" src="https://github-readme-stats-85j9ufoay-soumyasagnik.vercel.app/api?username=soumyasagnik&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="soumyasagnik" /></span>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-85j9ufoay-soumyasagnik.vercel.app/api?username=soumyasagnik&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="soumyasagnik" /></p>
 
-<span align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasagnik&theme=dark&hide_border=false" alt="soumyasagnik" /></span>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasagnik&theme=dark&hide_border=false" alt="soumyasagnik" /></p>
 
 <img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/border.gif" alt="border" width="100%" height="7.5rem" />
 
