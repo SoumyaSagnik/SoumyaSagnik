@@ -30,7 +30,7 @@
 
 # <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/stats.gif" width="35px" alt="stats"> GitHub Stats:
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-85j9ufoay-soumyasagnik.vercel.app/api?username=soumyasagnik&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="soumyasagnik" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-7wbv.vercel.app/api?username=soumyasagnik&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="soumyasagnik" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasagnik&theme=dark&hide_border=false" alt="soumyasagnik" /></p>
 
