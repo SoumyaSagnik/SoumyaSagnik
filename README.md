@@ -23,6 +23,7 @@
 <a href="https://www.leetcode.com/soumyakhanda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/soumyakhanda/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16835030/soumya-sagnik-khanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/Stackoverflow.gif" alt="Stackoverflow" height="40" width="40" /></a>
 <a href="https://steamcommunity.com/profiles/76561198855198498" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/Steam.gif" alt="Steam" height="40" width="40" /></a>
+<a href="https://cssbattle.dev/player/soumya_khanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/cssbattle.webp" alt="CSS-Battle" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
