@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soumya-sagnik-khanda-0446641b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/linkedin.gif" alt="https://www.linkedin.com/in/soumya-sagnik-khanda-0446641b8/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/soumyakhanda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/linkedin.gif" alt="https://www.linkedin.com/in/soumya-sagnik-khanda-0446641b8/" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/soumyakhanda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/soumyakhanda/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16835030/soumya-sagnik-khanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/stack overflow.png" alt="Stackoverflow" height="40" width="40" /></a>
 &nbsp;
