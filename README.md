@@ -15,7 +15,7 @@
 
 - ✒️ I have a blogging website: [Blogs](https://blogs-ssk.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/blog.gif" width="25px" alt="blogs">
 
-- ⚡ Fun fact: **I used to play video games!** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/gamepad.gif" width="20px" alt="game">
+- ⚡ Fun fact: **Time, tide and javascript wait for none!** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/gamepad.gif" width="20px" alt="game">
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
