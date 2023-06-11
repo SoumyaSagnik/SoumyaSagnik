@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyasagnik&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasagnik" /> </p>
 
-- 🌱 I’m currently mastering **React** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" alt="react.js" width="17.5" height="15"/>
+- 🌱 I’m currently mastering **react** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" alt="react.js" width="17.5" height="15"/>
 
 - 👨‍💻 Visit my [portfolio](https://soumyakhanda.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/portfolio.gif" width="20px" alt="website" />
 
