@@ -13,7 +13,7 @@
 
 - 📄 Here's my [resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resumee.gif" width="50px" height="20px" alt="resume">
 
-- ✒️ Visit my blogging website: [Blogs](https://blogs-ssk.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/blog.gif" width="25px" alt="blogs">
+- ✒️ Visit my blogging website: [blogs](https://blogs-ssk.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/blog.gif" width="25px" alt="blogs">
 
 - ⚡ Fun fact: **Time, tide, and JavaScript waits for none!**
 
