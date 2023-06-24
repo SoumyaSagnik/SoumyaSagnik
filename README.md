@@ -15,7 +15,7 @@
 
 - ✒️ Visit my blogging website: [blogs](https://blogs-ssk.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/blog.gif" width="25px" alt="blogs">
 
-- ⚡ Fun fact: **Time, tide, and JavaScript waits for none!**
+- ⚡ Fun fact: **time, tide, and JavaScript waits for none!**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
