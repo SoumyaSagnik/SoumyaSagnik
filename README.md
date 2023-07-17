@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently mastering **react** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" alt="react.js" width="17.5" height="15"/>
 
-- 👨‍💻 Check out my [Portfolio](https://soumyakhanda.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/portfolio.gif" width="20px" alt="website" />
+- 👨‍💻 Check out my [portfolio](https://soumyakhanda.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/portfolio.gif" width="20px" alt="website" />
 
 - 📫 Email: **soumyasagnik@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="20px" alt="email">
 
