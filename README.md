@@ -3,7 +3,7 @@
 <h2 align="center">Software Developer from India <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/flag.gif" width="30px" height="21px" alt="flag"></h2>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/coder.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyasagnik&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasagnik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyasagnik&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasagnik" /></p>
 
 - 🌱 I’m currently mastering **react** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" alt="react.js" width="17.5" height="15"/>
 
